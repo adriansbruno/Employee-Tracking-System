@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracking-system",
+  "version": "1.0.0",
+  "description": "\"Database used to manage employee information\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriansbruno/Employee-Tracking-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriansbruno/Employee-Tracking-System/issues"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.5",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.4"
+  },
+  "homepage": "https://github.com/adriansbruno/Employee-Tracking-System#readme"
+}
